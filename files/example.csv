@@ -1,0 +1,23 @@
+account_id,network_id,site_id,reason,score,device_id_value,device_id_type,ip_address,type
+4225,6476,1234,they smell funny,100,,,,site_id
+4225,6476,4312,they smell funny,100,,,,site_id
+4225,6476,6325423,they smell funny,100,,,,site_id
+4225,6476,765,they smell funny,100,,,,site_id
+4225,6476,3424,they smell funny,100,,,,site_id
+4225,6476,413125,they smell funny,100,,,,site_id
+4225,6476,765548,they smell funny,100,,,,site_id
+4225,6476,45234134,they smell funny,100,,,,site_id
+4225,,,they smell funny,100,20180218-test-test-test-0000000000000,adid,,device_id
+4225,,,they smell funny,100,20180218-test-test-test-0000000000001,adid,,device_id
+4225,,,they smell funny,100,20180218-test-test-test-0000000000002,adid,,device_id
+4225,,,they smell funny,100,20180218-test-test-test-0000000000003,adid,,device_id
+4225,,,they smell funny,100,20180218-test-test-test-0000000000004,adid,,device_id
+4225,,,they smell funny,100,20180218-test-test-test-0000000000005,adid,,device_id
+4225,,,they smell funny,100,,,127.0.0.1,ip_address
+4225,,,they smell funny,100,,,127.0.0.2,ip_address
+4225,,,they smell funny,100,,,127.0.0.3,ip_address
+4225,,,they smell funny,100,,,127.0.0.4,ip_address
+4225,,,they smell funny,100,,,127.0.0.5,ip_address
+4225,,,they smell funny,100,,,127.0.0.6,ip_address
+4225,,,they smell funny,100,,,127.0.0.7,ip_address
+4225,,,they smell funny,100,,,127.0.0.8,ip_address

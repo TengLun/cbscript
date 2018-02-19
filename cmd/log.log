@@ -1,0 +1,98 @@
+2018/02/19 11:44:43 load.go:15: open files/example.csv: The system cannot find the path specified.
+2018/02/19 11:44:43 main.go:15: open files/example.csv: The system cannot find the path specified.
+2018/02/19 11:45:05 load.go:15: open ./files/example.csv: The system cannot find the path specified.
+2018/02/19 11:45:05 main.go:15: open ./files/example.csv: The system cannot find the path specified.
+2018/02/19 11:45:21 main.go:24: List sent correctly
+2018/02/19 11:45:48 main.go:24: List sent correctly
+2018/02/19 12:23:28 send.go:132: [85 110 107 110 111 119 32 116 121 112 101]
+2018/02/19 12:23:29 send.go:132: [85 110 107 110 111 119 32 116 121 112 101]
+2018/02/19 12:23:29 send.go:132: [85 110 107 110 111 119 32 116 121 112 101]
+2018/02/19 12:23:29 send.go:132: [85 110 107 110 111 119 32 116 121 112 101]
+2018/02/19 12:23:29 send.go:132: [85 110 107 110 111 119 32 116 121 112 101]
+2018/02/19 12:23:29 send.go:132: [85 110 107 110 111 119 32 116 121 112 101]
+2018/02/19 12:23:29 send.go:132: [85 110 107 110 111 119 32 116 121 112 101]
+2018/02/19 12:23:29 send.go:132: [85 110 107 110 111 119 32 116 121 112 101]
+2018/02/19 12:23:29 send.go:132: [85 110 107 110 111 119 32 116 121 112 101]
+2018/02/19 12:23:30 send.go:132: [85 110 107 110 111 119 32 116 121 112 101]
+2018/02/19 12:23:30 send.go:132: [85 110 107 110 111 119 32 116 121 112 101]
+2018/02/19 12:23:30 send.go:132: [85 110 107 110 111 119 32 116 121 112 101]
+2018/02/19 12:23:30 send.go:132: [85 110 107 110 111 119 32 116 121 112 101]
+2018/02/19 12:23:30 send.go:132: [85 110 107 110 111 119 32 116 121 112 101]
+2018/02/19 12:23:30 send.go:132: [85 110 107 110 111 119 32 116 121 112 101]
+2018/02/19 12:23:30 send.go:132: [85 110 107 110 111 119 32 116 121 112 101]
+2018/02/19 12:23:30 send.go:132: [85 110 107 110 111 119 32 116 121 112 101]
+2018/02/19 12:23:31 send.go:132: [85 110 107 110 111 119 32 116 121 112 101]
+2018/02/19 12:23:31 send.go:132: [85 110 107 110 111 119 32 116 121 112 101]
+2018/02/19 12:23:31 send.go:132: [85 110 107 110 111 119 32 116 121 112 101]
+2018/02/19 12:23:31 send.go:132: [85 110 107 110 111 119 32 116 121 112 101]
+2018/02/19 12:23:31 send.go:132: [85 110 107 110 111 119 32 116 121 112 101]
+2018/02/19 12:23:31 main.go:28: List sent correctly
+2018/02/19 12:25:36 send.go:132: Unknow type
+2018/02/19 12:25:36 send.go:132: Unknow type
+2018/02/19 12:25:36 send.go:132: Unknow type
+2018/02/19 12:25:36 send.go:132: Unknow type
+2018/02/19 12:25:36 send.go:132: Unknow type
+2018/02/19 12:25:37 send.go:132: Unknow type
+2018/02/19 12:25:37 send.go:132: Unknow type
+2018/02/19 12:25:37 send.go:132: Unknow type
+2018/02/19 12:25:37 send.go:132: Unknow type
+2018/02/19 12:25:37 send.go:132: Unknow type
+2018/02/19 12:25:37 send.go:132: Unknow type
+2018/02/19 12:25:37 send.go:132: Unknow type
+2018/02/19 12:25:37 send.go:132: Unknow type
+2018/02/19 12:25:38 send.go:132: Unknow type
+2018/02/19 12:25:38 send.go:132: Unknow type
+2018/02/19 12:25:38 send.go:132: Unknow type
+2018/02/19 12:25:38 send.go:132: Unknow type
+2018/02/19 12:25:38 send.go:132: Unknow type
+2018/02/19 12:25:38 send.go:132: Unknow type
+2018/02/19 12:25:38 send.go:132: Unknow type
+2018/02/19 12:25:38 send.go:132: Unknow type
+2018/02/19 12:25:38 send.go:132: Unknow type
+2018/02/19 12:25:38 main.go:28: List sent correctly
+2018/02/19 12:27:40 send.go:135: {"status":"OK"}
+2018/02/19 12:27:40 send.go:135: {"status":"OK"}
+2018/02/19 12:27:40 send.go:135: {"status":"OK"}
+2018/02/19 12:27:40 send.go:135: {"status":"OK"}
+2018/02/19 12:27:40 send.go:135: {"status":"OK"}
+2018/02/19 12:27:40 send.go:135: {"status":"OK"}
+2018/02/19 12:27:41 send.go:135: Type does not match object
+2018/02/19 12:27:41 send.go:135: Type does not match object
+2018/02/19 12:27:41 send.go:135: Type does not match object
+2018/02/19 12:27:41 send.go:135: Type does not match object
+2018/02/19 12:27:41 send.go:135: Type does not match object
+2018/02/19 12:27:41 send.go:135: Type does not match object
+2018/02/19 12:27:41 send.go:135: Type does not match object
+2018/02/19 12:27:41 send.go:135: Type does not match object
+2018/02/19 12:27:42 send.go:135: Type does not match object
+2018/02/19 12:27:42 send.go:135: Type does not match object
+2018/02/19 12:27:42 send.go:135: Type does not match object
+2018/02/19 12:27:42 send.go:135: Type does not match object
+2018/02/19 12:27:42 send.go:135: Type does not match object
+2018/02/19 12:27:42 send.go:135: Type does not match object
+2018/02/19 12:27:42 send.go:135: Type does not match object
+2018/02/19 12:27:42 send.go:135: Type does not match object
+2018/02/19 12:27:42 main.go:28: List sent correctly
+2018/02/19 12:29:11 send.go:135: {"status":"ERR","errmsg":"Key already exists in blacklist"}
+2018/02/19 12:29:11 send.go:135: {"status":"ERR","errmsg":"Key already exists in blacklist"}
+2018/02/19 12:29:11 send.go:135: {"status":"ERR","errmsg":"Key already exists in blacklist"}
+2018/02/19 12:29:12 send.go:135: {"status":"ERR","errmsg":"Key already exists in blacklist"}
+2018/02/19 12:29:12 send.go:135: {"status":"ERR","errmsg":"Key already exists in blacklist"}
+2018/02/19 12:29:12 send.go:135: {"status":"ERR","errmsg":"Key already exists in blacklist"}
+2018/02/19 12:29:12 send.go:135: {"status":"OK"}
+2018/02/19 12:29:12 send.go:135: {"status":"OK"}
+2018/02/19 12:29:12 send.go:135: {"status":"OK"}
+2018/02/19 12:29:12 send.go:135: {"status":"OK"}
+2018/02/19 12:29:12 send.go:135: {"status":"OK"}
+2018/02/19 12:29:13 send.go:135: {"status":"OK"}
+2018/02/19 12:29:13 send.go:135: {"status":"OK"}
+2018/02/19 12:29:13 send.go:135: {"status":"OK"}
+2018/02/19 12:29:13 send.go:135: {"status":"OK"}
+2018/02/19 12:29:13 send.go:135: {"status":"OK"}
+2018/02/19 12:29:13 send.go:135: {"status":"OK"}
+2018/02/19 12:29:13 send.go:135: {"status":"OK"}
+2018/02/19 12:29:13 send.go:135: {"status":"OK"}
+2018/02/19 12:29:14 send.go:135: {"status":"OK"}
+2018/02/19 12:29:14 send.go:135: {"status":"OK"}
+2018/02/19 12:29:14 send.go:135: {"status":"OK"}
+2018/02/19 12:29:14 main.go:28: List sent correctly
