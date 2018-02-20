@@ -1,5 +1,3 @@
-// Package cbs loads data from a csv file specified by a flag, and sends information
-// to the kochava blacklist
 package cbs
 
 import (
@@ -43,12 +41,7 @@ func LoadBlackList(logger *log.Logger, filename string) (BlackList, error) {
 			site.BlackListSiteID.SiteID = record[2]
 			site.BlackListSiteID.Reason = record[3]
 
-			score, err := strconv.Atoi(record[4])
-
-			if err != nil {
-				logger.Println(err)
-				return list, err
-			}
+			score, _ := strconv.Atoi(record[4])
 
 			site.BlackListSiteID.Score = score
 			site.BlackListSiteID.Source = 2
@@ -62,12 +55,7 @@ func LoadBlackList(logger *log.Logger, filename string) (BlackList, error) {
 			device.BlackListDevice.DeviceIDType = record[6]
 			device.BlackListDevice.Reason = record[3]
 
-			score, err := strconv.Atoi(record[4])
-
-			if err != nil {
-				logger.Println(err)
-				return list, err
-			}
+			score, _ := strconv.Atoi(record[4])
 
 			device.BlackListDevice.Score = score
 
@@ -80,11 +68,7 @@ func LoadBlackList(logger *log.Logger, filename string) (BlackList, error) {
 			ip.BlackListIP.IPAddress = record[7]
 			ip.BlackListIP.Reason = record[3]
 
-			score, err := strconv.Atoi(record[4])
-			if err != nil {
-				logger.Println(err)
-				return list, err
-			}
+			score, _ := strconv.Atoi(record[4])
 
 			ip.BlackListIP.Score = score
 			ip.BlackListIP.Source = 2
