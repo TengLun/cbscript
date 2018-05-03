@@ -13,7 +13,10 @@ import (
 func main() {
 
 	// Create file logger
-	logger := logger.CreateLogger("log")
+	logger, err := logger.CreateLogger("log")
+	if err != nil {
+		fmt.Println(err)
+	}
 
 	var api string
 	var filename string
