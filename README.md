@@ -1,7 +1,7 @@
-# H1cbscript
+# cbscript
 This is a simple program to add publishers, ip addresses, and device ids to your custom blacklist.
 
-# H2 Usage
+## Usage
 
 Clone and build into an application. Commands and flags are available by typing:
 ```
@@ -28,6 +28,6 @@ cbscript --api_key="YOUR API KEY" --file="YOUR FILE NAME" add
 
 ```
 
-# H2 Summary
+## Summary
 This is a simple script to add entries to your blacklist. This project will eventually be merged with this project:
 [Kochava Fraud API Library](https://github.com/TengLun/kfapi "kfAPI")
